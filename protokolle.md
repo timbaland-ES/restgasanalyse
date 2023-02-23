@@ -1,0 +1,15 @@
+protokoll 22.2.2023 15:00 - anwesend alle
+- vorstellung 
+- fachliche erklärung
+- wie funktioniert das Smeter
+- wie können wir das meter ansprechen
+- vpn accounts
+- tank benötigt 2 wochen um evakuiert werden
+- termin für gemeinsame messung 10.3. 16:30
+- welche module müssen entwickelt werden
+- über die Doku geschaut
+- vorherige projektaufgaben angeschaut
+- teilweise aufgaben zuweisen
+- marius ressourcen und kosten, changetracking
+- lars lastenheft
+- pi alternative
