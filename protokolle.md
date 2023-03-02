@@ -1,3 +1,12 @@
+1.3.2023 16:30 - anwesend alle
+- konkrete verteilung der arbeitspakete
+- abstimmung termine für die QB
+- Ressourcenplan evaluieren
+- Grobe Software und Netzwerkarchitektur erstellt
+- Absprache nächster Termin (Python Script vorbereiten, welche Massen?): 7.3. 16:30
+- wirtschaftlichkeitsanalyse
+- 
+
 protokoll 22.2.2023 15:00 - anwesend alle
 - vorstellung 
 - fachliche erklärung
@@ -13,3 +22,5 @@ protokoll 22.2.2023 15:00 - anwesend alle
 - marius ressourcen und kosten, changetracking
 - lars lastenheft
 - pi alternative
+
+
