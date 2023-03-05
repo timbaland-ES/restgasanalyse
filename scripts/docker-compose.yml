@@ -1,0 +1,22 @@
+version: "3"
+services:
+  postgres:
+      container_name: postgres
+      image: postgres
+      ports:
+          - 5432:5432
+      volumes:
+          - ./postgres:/var/lib/postgresql/data
+      env_file: 
+          - postgres.env
+  grafana:
+          container_name: grafana
+          image: grafana/grafana:latest
+          restart: unless-stopped
+          depends_on:
+              - postgres
+          ports:
+              - 3000:3000
+          volumes:
+              - ./grafana:/var/lib/grafana
+          env_file: grafana.env
