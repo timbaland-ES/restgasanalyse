@@ -1,3 +1,14 @@
+7.3.2023 16:30 anwesend alle
+- DMS Struktur
+- Lastenheft
+- Grafana Darstellung
+- Zeitplan Ganttchart
+- Versionshistorie
+- kostenplan
+- wie tracken wir stunden
+- minimal example, druck auslesen, mass sweep
+
+
 1.3.2023 16:30 - anwesend alle
 - konkrete verteilung der arbeitspakete
 - abstimmung termine für die QB
