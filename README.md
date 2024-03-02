@@ -1,5 +1,12 @@
 # Restgasanalyse
 
+This is a student project during my master study for the "GSI Helmholzzentrum für Schwerionenforschung". They maintain a particle accelerator for ions (Teilchenbeschleuniger für Ionen).
+They had difficulties at analyzing the concentrations of material in the accelerator. 
+Therefore we created a system that takes the measured datas, stores them, and visualize them remotely. So they now have much better opportunities to analyze the measured data. 
+
+![image](https://github.com/timbaland-ES/restgasanalyse/assets/77269620/34bb5f5b-6863-4cf2-8c34-24f6029e4c57)
+
+
 ## Development
 ```bash
 docker-compose up -f scripts/docker-compose.yml
