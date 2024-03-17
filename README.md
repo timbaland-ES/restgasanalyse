@@ -7,6 +7,13 @@ Therefore we created a system that takes the measured datas, stores them, and vi
 ![image](https://github.com/timbaland-ES/restgasanalyse/assets/77269620/34bb5f5b-6863-4cf2-8c34-24f6029e4c57)
 
 
+## Systemarchitektur
+
+![image](https://github.com/timbaland-ES/restgasanalyse/assets/77269620/2869cde6-a19f-4cee-a0fb-38cbda16d5d3)
+
+
+
+
 ## Development
 ```bash
 docker-compose up -f scripts/docker-compose.yml
